@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- 👀 Interests: Computer Science, Neuroscience and Sports Science
+- 👀 Interests: Computer Science, ML & AI, Neuroscience and Sports Science
 - 🌱 BSCs @ University of London
 - 📫 How to reach me ... jgray2997@gmail.com
 
