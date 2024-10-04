@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Josh
 - 👀 Interests: Computer Science, ML & AI, Neuroscience and Sports Science
 - 🌱 BSCs @ University of London
+- 🌱 MSCS @ University of Colorado Boulder
 - 📫 How to reach me ... jgray2997@gmail.com
 
 <!---
