@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Josh
-- 👀 Interests: Computer Science, ML & AI, Neuroscience and Sports Science
+- 👀 Interests: Learning, Computer Science, ML, Health
 - 🌱 BSCs @ University of London
 - 🌱 MSCS @ University of Colorado Boulder
 - 📫 How to reach me ... josh@joshuagray.dev
